@@ -1,0 +1,30 @@
+body {
+  margin: 0 auto;
+  background-color: palegoldenrod;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+.links {
+  text-align: center;
+  margin: 25px;
+}
+
+.link {
+  margin: 0 15px;
+  color: green;
+  cursor: pointer;
+  text-decoration: none;
+}
+.link:hover {
+  color: turquoise;
+}
+
+img {
+  width: 80%;
+  display: block;
+  margin: auto;
+}
